@@ -20,4 +20,4 @@ My name is Nikita and I am Java Backend Developer.
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krimerkhex&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentagoncc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
